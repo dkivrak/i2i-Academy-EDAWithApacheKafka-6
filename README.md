@@ -1,4 +1,4 @@
-# i2i-Academy-EDAWithApachekafka-6
+# i2i Academy - EDA With Apache kafka
 
 This project was developed as part of the i2i Academy homework assignment: **EDA with Apache Kafka**.
 
@@ -166,8 +166,8 @@ The Consumer should receive and print the OrderEvent object sent by the Producer
 
 ## Notes
 
-Kafka runs locally on localhost:9092.
-The project uses a single Kafka broker.
-The message value is serialized as JSON.
-The Producer and Consumer are implemented as separate Java Maven applications.
-Docker is used only for running Apache Kafka.
+-  Kafka runs locally on localhost:9092.
+-  The project uses a single Kafka broker.
+-  The message value is serialized as JSON.
+-  The Producer and Consumer are implemented as separate Java Maven applications.
+-  Docker is used only for running Apache Kafka.
