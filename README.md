@@ -166,6 +166,7 @@ The Consumer should receive and print the OrderEvent object sent by the Producer
 
 ## Notes
 
+-  If your VM Instance's SSH-in-browser appears to be slow, consider upgrading machine model, it might save you time.
 -  Kafka runs locally on localhost:9092.
 -  The project uses a single Kafka broker.
 -  The message value is serialized as JSON.
